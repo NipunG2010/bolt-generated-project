@@ -32,7 +32,7 @@ export function CalendlyEmbed() {
 
       <button
         onClick={() => {
-          window.open('https://calendly.com/your-link', '_blank');
+          window.open('https://calendly.com/nipung2010/30min', '_blank');
         }}
         className="w-full bg-secondary text-primary px-6 py-3 rounded-lg font-semibold
           hover:bg-opacity-90 transition-all duration-300 flex items-center justify-center gap-2"
